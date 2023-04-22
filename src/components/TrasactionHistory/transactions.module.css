@@ -1,0 +1,23 @@
+.table {
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 25px;
+  width: 50%;
+  border: 1px solid black;
+}
+
+th,
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+th {
+  background-color: blue;
+  color: white;
+}
+
+tr:hover {
+  background-color: blue;
+  color: white;
+}
